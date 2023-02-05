@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="200mm" height="100mm" viewBox="0 0 200 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<defs>
+  <marker id="arrow" markerWidth="15" markerHeight="7" refX="5" refY="3.5" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L15,3.5 L0,7 z" stroke="context-stroke" fill="context-stroke"/>
+  </marker>
+</defs>
+<g class="plotroot xscalable yscalable" id="img-2af5e99d-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-2af5e99d-2">
+    <g transform="translate(100.03,88.39)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">update_fiscal_year</text>
+      </g>
+    </g>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-2af5e99d-3">
+    <g transform="translate(23.3,81.72)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">2016</text>
+      </g>
+    </g>
+    <g transform="translate(61.67,81.72)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">2017</text>
+      </g>
+    </g>
+    <g transform="translate(100.03,81.72)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">2018</text>
+      </g>
+    </g>
+    <g transform="translate(138.39,81.72)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">2019</text>
+      </g>
+    </g>
+    <g transform="translate(176.75,81.72)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">2020</text>
+      </g>
+    </g>
+  </g>
+  <g class="guide colorkey" id="img-2af5e99d-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-2af5e99d-5">
+      <g transform="translate(182.56,28.35)" id="img-2af5e99d-6" class="color_静岡市葵区">
+        <g class="primitive">
+          <text dy="0.35em">静岡市葵区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,31.98)" id="img-2af5e99d-7" class="color_静岡市清水区">
+        <g class="primitive">
+          <text dy="0.35em">静岡市清水区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,35.6)" id="img-2af5e99d-8" class="color_浜松市中区">
+        <g class="primitive">
+          <text dy="0.35em">浜松市中区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,39.23)" id="img-2af5e99d-9" class="color_浜松市北区">
+        <g class="primitive">
+          <text dy="0.35em">浜松市北区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,42.86)" id="img-2af5e99d-10" class="color_浜松市浜北区">
+        <g class="primitive">
+          <text dy="0.35em">浜松市浜北区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,46.48)" id="img-2af5e99d-11" class="color_浜松市西区">
+        <g class="primitive">
+          <text dy="0.35em">浜松市西区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,50.11)" id="img-2af5e99d-12" class="color_静岡市駿河区">
+        <g class="primitive">
+          <text dy="0.35em">静岡市駿河区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,53.74)" id="img-2af5e99d-13" class="color_浜松市南区">
+        <g class="primitive">
+          <text dy="0.35em">浜松市南区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,57.36)" id="img-2af5e99d-14" class="color_浜松市東区">
+        <g class="primitive">
+          <text dy="0.35em">浜松市東区</text>
+        </g>
+      </g>
+      <g transform="translate(182.56,60.99)" id="img-2af5e99d-15" class="color_浜松市天竜区">
+        <g class="primitive">
+          <text dy="0.35em">浜松市天竜区</text>
+        </g>
+      </g>
+    </g>
+    <g fill-opacity="1" id="img-2af5e99d-16">
+      <g transform="translate(180.65,28.35)" id="img-2af5e99d-17" class="color_静岡市葵区" stroke="#FFFFFF" fill="#00BFFF">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,31.98)" id="img-2af5e99d-18" class="color_静岡市清水区" stroke="#FFFFFF" fill="#D4CA3A">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,35.6)" id="img-2af5e99d-19" class="color_浜松市中区" stroke="#FFFFFF" fill="#FF6DAE">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,39.23)" id="img-2af5e99d-20" class="color_浜松市北区" stroke="#FFFFFF" fill="#00B78D">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,42.86)" id="img-2af5e99d-21" class="color_浜松市浜北区" stroke="#FFFFFF" fill="#BEA9FF">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,46.48)" id="img-2af5e99d-22" class="color_浜松市西区" stroke="#FFFFFF" fill="#FF6765">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,50.11)" id="img-2af5e99d-23" class="color_静岡市駿河区" stroke="#FFFFFF" fill="#C6C6C6">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,53.74)" id="img-2af5e99d-24" class="color_浜松市南区" stroke="#FFFFFF" fill="#63DF75">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,57.36)" id="img-2af5e99d-25" class="color_浜松市東区" stroke="#FFFFFF" fill="#00E6D3">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(180.65,60.99)" id="img-2af5e99d-26" class="color_浜松市天竜区" stroke="#FFFFFF" fill="#E870DD">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-2af5e99d-27">
+      <g transform="translate(179.75,24.53)" id="img-2af5e99d-28">
+        <g class="primitive">
+          <text dy="-0em">cityName</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g clip-path="url(#img-2af5e99d-29)">
+    <g id="img-2af5e99d-30">
+      <g pointer-events="visible" stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-2af5e99d-31">
+        <g transform="translate(100.03,42.86)" id="img-2af5e99d-32">
+          <path d="M-78.72,-37.86 L78.72,-37.86 78.72,37.86 -78.72,37.86  z" class="primitive"/>
+        </g>
+      </g>
+      <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-2af5e99d-33">
+        <g transform="translate(100.03,78.72)" id="img-2af5e99d-34">
+          <path fill="none" d="M-78.72,0 L78.72,0 " class="primitive"/>
+        </g>
+        <g transform="translate(100.03,60.79)" id="img-2af5e99d-35">
+          <path fill="none" d="M-78.72,0 L78.72,0 " class="primitive"/>
+        </g>
+        <g transform="translate(100.03,42.86)" id="img-2af5e99d-36">
+          <path fill="none" d="M-78.72,0 L78.72,0 " class="primitive"/>
+        </g>
+        <g transform="translate(100.03,24.93)" id="img-2af5e99d-37">
+          <path fill="none" d="M-78.72,0 L78.72,0 " class="primitive"/>
+        </g>
+        <g transform="translate(100.03,7)" id="img-2af5e99d-38">
+          <path fill="none" d="M-78.72,0 L78.72,0 " class="primitive"/>
+        </g>
+      </g>
+      <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-2af5e99d-39">
+        <g transform="translate(23.3,42.86)" id="img-2af5e99d-40">
+          <path fill="none" d="M0,-37.86 L0,37.86 " class="primitive"/>
+        </g>
+        <g transform="translate(61.67,42.86)" id="img-2af5e99d-41">
+          <path fill="none" d="M0,-37.86 L0,37.86 " class="primitive"/>
+        </g>
+        <g transform="translate(100.03,42.86)" id="img-2af5e99d-42">
+          <path fill="none" d="M0,-37.86 L0,37.86 " class="primitive"/>
+        </g>
+        <g transform="translate(138.39,42.86)" id="img-2af5e99d-43">
+          <path fill="none" d="M0,-37.86 L0,37.86 " class="primitive"/>
+        </g>
+        <g transform="translate(176.75,42.86)" id="img-2af5e99d-44">
+          <path fill="none" d="M0,-37.86 L0,37.86 " class="primitive"/>
+        </g>
+      </g>
+      <g class="plotpanel" id="img-2af5e99d-45">
+        <metadata>
+          <boundingbox value="21.305000000000007mm 5.0mm 157.44166666666666mm 75.715mm"/>
+          <unitbox value="2015.947862922935 2055.7763368890746 4.104274154130234 -2111.5526737781497"/>
+        </metadata>
+        <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" id="img-2af5e99d-46">
+          <g transform="translate(100.03,41.82)" id="img-2af5e99d-47" class="color_静岡市葵区" stroke-dasharray="none" stroke="#00BFFF">
+            <path fill="none" d="M-76.72,23.67 L-38.36,23.24 0,-34.6 38.36,-12.08 76.72,-0.22 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,53.57)" id="img-2af5e99d-48" class="color_静岡市清水区" stroke-dasharray="none" stroke="#D4CA3A">
+            <path fill="none" d="M-76.72,17.04 L-38.36,16.75 0,-23.77 38.36,-8.49 76.72,-1.53 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,39.69)" id="img-2af5e99d-49" class="color_浜松市中区" stroke-dasharray="none" stroke="#FF6DAE">
+            <path fill="none" d="M-76.72,12.31 L-38.36,25.93 0,-28.79 38.36,-7.7 76.72,-1.75 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,69.46)" id="img-2af5e99d-50" class="color_浜松市北区" stroke-dasharray="none" stroke="#00B78D">
+            <path fill="none" d="M-76.72,5.82 L-38.36,6.28 0,-8.6 38.36,-2.72 76.72,-0.78 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,70.74)" id="img-2af5e99d-51" class="color_浜松市浜北区" stroke-dasharray="none" stroke="#BEA9FF">
+            <path fill="none" d="M-76.72,5.36 L-38.36,5.32 0,-6.98 38.36,-2.32 76.72,-1.38 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,68.17)" id="img-2af5e99d-52" class="color_浜松市西区" stroke-dasharray="none" stroke="#FF6765">
+            <path fill="none" d="M-76.72,6.67 L-38.36,6.28 0,-9.22 38.36,-3.12 76.72,-0.61 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,50.94)" id="img-2af5e99d-53" class="color_静岡市駿河区" stroke-dasharray="none" stroke="#C6C6C6">
+            <path fill="none" d="M-76.72,18.92 L-38.36,18.27 0,-24.79 38.36,-9.8 76.72,-2.6 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,66.4)" id="img-2af5e99d-54" class="color_浜松市南区" stroke-dasharray="none" stroke="#63DF75">
+            <path fill="none" d="M-76.72,7.58 L-38.36,8.58 0,-10.85 38.36,-4.65 76.72,-0.67 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,61.04)" id="img-2af5e99d-55" class="color_浜松市東区" stroke-dasharray="none" stroke="#00E6D3">
+            <path fill="none" d="M-76.72,9.17 L-38.36,11.54 0,-12.74 38.36,-7.32 76.72,-0.65 " class="primitive"/>
+          </g>
+          <g transform="translate(100.03,75.95)" id="img-2af5e99d-56" class="color_浜松市天竜区" stroke-dasharray="none" stroke="#E870DD">
+            <path fill="none" d="M-76.72,1.66 L-38.36,1.66 0,-2.18 38.36,-0.78 76.72,-0.35 " class="primitive"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-2af5e99d-57">
+    <g transform="translate(20.3,78.72)" id="img-2af5e99d-58">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0</text>
+      </g>
+    </g>
+    <g transform="translate(20.3,60.79)" id="img-2af5e99d-59">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">500</text>
+      </g>
+    </g>
+    <g transform="translate(20.3,42.86)" id="img-2af5e99d-60">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">1000</text>
+      </g>
+    </g>
+    <g transform="translate(20.3,24.93)" id="img-2af5e99d-61">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">1500</text>
+      </g>
+    </g>
+    <g transform="translate(20.3,7)" id="img-2af5e99d-62">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">2000</text>
+      </g>
+    </g>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-2af5e99d-63">
+    <g transform="translate(8.81,40.86)" id="img-2af5e99d-64">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.35em" transform="rotate(-90,0, 2)">size</text>
+      </g>
+    </g>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-2af5e99d-29">
+    <path d="M21.31,5 L178.75,5 178.75,80.72 21.31,80.72 " />
+  </clipPath>
+</defs>
+</svg>
