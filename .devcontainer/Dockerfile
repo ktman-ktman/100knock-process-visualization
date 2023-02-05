@@ -11,8 +11,6 @@ RUN apt-get update \
 	fish \
 	git \
 	htop \
-	libopencv-dev \
-	python3-opencv \
 	sudo \
 	tmux \
 	wget \
